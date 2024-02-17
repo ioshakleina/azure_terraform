@@ -1,1 +1,6 @@
-
+resource_group_name = "lpnu"
+azure_vm_name = "dof01"
+azure_vm_location = eastus"
+vm_size = "Standard_B1ls" 
+azure_os_disk_name = "myVnet" 
+public_ip_address = "myPublicIP"example.id
